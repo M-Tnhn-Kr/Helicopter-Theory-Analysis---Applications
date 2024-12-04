@@ -92,4 +92,4 @@ function lambda = newton_raphson(Ct_f, mu, alpha, lambda_h)
 end
 
 %% Mehmet Tunahan Kara / 110200028
-% 
+% https://github.com/M-Tnhn-Kr/Helicopter-Theory-Analysis---Applications
